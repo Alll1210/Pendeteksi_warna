@@ -1,0 +1,44 @@
+nama,Name,Kode,RGB_R,RGB_G,RGB_B
+merah,Merah,#ff0000,255,0,0
+biru,Biru,#0000ff,0,0,255
+kuning,Kuning,#ffff00,255,255,0
+hijau,Hijau,#00ff00,0,255,0
+jingga,Jingga,#ff6600,255,102,0
+putih,Putih,#ffffff,255,255,255
+hitam,Hitam,#000000,0,0,0
+coklat,Coklat,#8b4513,139,69,19
+abu_abu,Abu-abu,#808080,128,128,128
+ungu,Ungu,#800080,128,0,128
+magenta,Magenta,#ff00ff,255,0,255
+pink,Pink,#ffc0cb,255,192,203
+biru_muda,Biru Muda,#add8e6,173,216,230
+biru_tua,Biru Tua,#000080,0,0,128
+ijo_muda,Ijo Muda,#00ff7f,0,255,127
+ijo_terang,Ijo Terang,#00ff00,0,255,0
+kuning_muda,Kuning Muda,#ffffe0,255,255,224
+jingga_muda,Jingga Muda,#ff4500,255,69,0
+ungu_muda,Ungu Muda,#9400d3,148,0,211
+coklat_muda,Coklat Muda,#a52a2a,165,42,42
+abu_abu_terang,Abu-abu Terang,#d3d3d3,211,211,211
+ungu_terang,Ungu Terang,#9370db,147,112,219
+magenta_terang,Magenta Terang,#ff00ff,255,0,255
+pink_terang,Pink Terang,#ffb6c1,255,182,193
+oren_muda,Oren Muda,#ff4500,255,69,0
+krem,Krem,#fffdd0,255,253,208
+perak,Perak,#c0c0c0,192,192,192
+emas,Emas,#ffd700,255,215,0
+marun,Marun,#800000,128,0,0
+abu_abu_gelap,Abu-abu Gelap,#696969,105,105,105
+merah_muda,Merah Muda,#ffc0cb,255,192,203
+biru_muda_tua,Biru Muda Tua,#87cefa,135,206,250
+ungu_muda_tua,Ungu Muda Tua,#dda0dd,221,160,221
+hijau_muda_tua,Hijau Muda Tua,#90ee90,144,238,144
+biru_muda_terang,Biru Muda Terang,#00bfff,0,191,255
+ungu_muda_terang,Ungu Muda Terang,#ba55d3,186,85,211
+jingga_muda_terang,Jingga Muda Terang,#ff7f50,255,127,80
+biru_muda_tua_terang,Biru Muda Tua Terang,#6495ed,100,149,237
+biru_muda_terang,Biru Muda Terang,#4682b4,70,130,180
+hijau_muda,Hijau Muda,#00ff7f,0,255,127
+biru_tua_terang,Biru Tua Terang,#4169e1,65,105,225
+biru_pudar,Biru Pudar,#b0e0e6,176,224,230
+biru_terang,Biru Terang,#87ceeb,135,206,235
